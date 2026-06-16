@@ -1,0 +1,23 @@
+Connection: close
+Content-Length: 69205
+Server: GitHub.com
+Content-Type: application/javascript; charset=utf-8
+Last-Modified: Tue, 17 Mar 2026 18:25:30 GMT
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=31556952
+ETag: "69b99c9a-10e55"
+expires: Tue, 16 Jun 2026 02:12:48 GMT
+Cache-Control: max-age=600
+x-proxy-cache: MISS
+X-GitHub-Request-Id: AA10:44166:3569DE:3B475F:6A30AEC8
+Accept-Ranges: bytes
+Age: 593
+Date: Tue, 16 Jun 2026 02:12:41 GMT
+Via: 1.1 varnish
+X-Served-By: cache-yyz4582-YYZ
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1781575962.807576,VS0,VE3
+Vary: Accept-Encoding
+X-Fastly-Request-ID: 3fe8dbb7d4b88b48af4e39c206862bca9c7dd02b
+
